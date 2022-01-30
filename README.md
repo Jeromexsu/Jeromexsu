@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Jeromexsu
+- 👋 Hi, I’m Jerome Su
 - I'm a starter
 - 👀 I’m interested in algorithm
 - 🌱 I’m currently learning Java
