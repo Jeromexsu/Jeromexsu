@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jeromexsu
 - I'm a starter
-- 👀 I’m interested in algrithm
+- 👀 I’m interested in algorithm
 - 🌱 I’m currently learning Java
 - 📫 How to reach me jeromesu@outlook.com
 
